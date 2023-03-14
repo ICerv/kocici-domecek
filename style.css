@@ -68,8 +68,8 @@ h1 {
   width: 120px;
   height: 140px;
   position: absolute;
-  top: calc(140px / 2);
-  left: calc(120px / 2);
+  top: calc(-140px / 2);
+  left: calc(-120px / 2);
   /*
 		kočka si ráda čte svoje knihy v klidu,
 		proto sedí v levém horním rohu domečku,
